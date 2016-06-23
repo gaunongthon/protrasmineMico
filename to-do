@@ -1,0 +1,6 @@
+1. how to generate jasmine2 report:
+https://www.npmjs.com/package/protractor-jasmine2-html-reporter
+http://stackoverflow.com/questions/32227364/how-to-create-protractor-reports-with-jasmine2
+https://github.com/angular/protractor/issues/1748
+2. how to integrate protractor-jasmine2 with Jenkins
+3. duplicate from this template framework to build cja-admin test-framework
